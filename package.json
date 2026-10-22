@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "Herramientas de validación y automatización para la infraestructura cloud de NetOps Solutions",
   "main": "dist/index.js",
-  "scripts": {
-    "build": "tsc",
+ "scripts": {
     "test": "jest",
     "test:coverage": "jest --coverage"
   },
