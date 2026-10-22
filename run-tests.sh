@@ -1,3 +1,3 @@
 #!/bin/bash
 echo "=== Ejecutando Pruebas Unitarias y Análisis de Cobertura ==="
-npm run test:coveragegit
+npm run test:coverage
